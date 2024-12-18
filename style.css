@@ -1,0 +1,173 @@
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 60px;
+}
+
+.logo {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.top-container{
+    background-color:#1F2937;
+
+    }
+
+ul {
+    display: flex;
+    gap: 8px;
+    list-style-type: none;
+
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.big-text {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 4px;
+    margin-top: 0px;
+}
+
+.small-text {
+    color: #e5e7eb;
+    font-size: 18px;
+    
+}
+
+.button {
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+
+button {
+    color: white;
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 0;
+    border-color: white;}
+
+
+.media {
+    display: flex;
+    padding: 60px 60px;
+}
+
+.content {
+    margin-right: 50px;
+}
+
+.sushi {
+    max-width: 600px;
+    max-height: 400px;
+    margin: 0;
+    padding: 0;
+    flex-shrink: 1 1 auto;
+}
+
+
+.second-container {
+    background-color: white;;
+}
+
+.information-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900px;
+    text-align: center;
+    padding: 20px;
+}
+
+.four-images {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 60px;
+}
+
+.place {
+    max-width: 300px;
+    border-radius: 10px;
+}
+
+.item {
+    text-align: center;
+}
+
+.third-container {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    background-color: #e5e7eb;
+    padding: 150px;
+}
+   
+.speaker {
+    text-align: end;
+    font-weight: 700;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 100;
+    color: #1F2937;
+    justify-content: flex-end;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.footer {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.cta {
+    background-color:#3882F6;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 1000px;
+    height: 150px;
+    border-radius: 20px;
+}
+
+.words {
+    color: white;
+}
+
+.big-words {
+    font-weight: 600;
+}
+
+.small-words {
+    font-weight: 200;
+}
+
+
+
+
+
+
+
+
+
